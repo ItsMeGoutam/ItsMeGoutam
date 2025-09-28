@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Automation Tester
+I am a professional who writes clean, maintainable, and robust Automation code that integrates seamlessly into a modern DevOps lifecycle. 
 
 
 ## 🌐 Socials:
